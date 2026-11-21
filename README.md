@@ -1,5 +1,5 @@
-app for watching anime 
-parsing from animelib.org
+app for watching anime. 
+Parsing from animelib.org
 
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/015379ad-ec2b-43cf-966f-f54e3c8bda99" />
